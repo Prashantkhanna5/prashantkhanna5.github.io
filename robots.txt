@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://prashantkhanna5.github.io/sitemap.xml
